@@ -16,6 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ##Screenshot
+# Create Account
+![Create Account](https://github.com/atul120212/Login_Page_by_flutter/assets/87241497/fb233d42-19c0-469e-9f76-95e71923ab9a) 
 
-![Create Account](https://github.com/atul120212/Login_Page_by_flutter/assets/87241497/fb233d42-19c0-469e-9f76-95e71923ab9a) ![Login](https://github.com/atul120212/Login_Page_by_flutter/assets/87241497/8f3692d7-6fea-41e8-b916-ff3e23497665)
+# LogIn Page
+
+![Login](https://github.com/atul120212/Login_Page_by_flutter/assets/87241497/8f3692d7-6fea-41e8-b916-ff3e23497665)
 
